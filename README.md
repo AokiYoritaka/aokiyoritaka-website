@@ -1,1 +1,0 @@
-# aokiyoritaka-website
