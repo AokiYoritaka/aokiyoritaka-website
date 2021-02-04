@@ -1,3 +1,3 @@
 # 青木亮隆 ポートフォリオサイト
 URL: https://aokiyoritaka.github.io/aokiyoritaka-website/.
-<img width="1538" alt="スクリーンショット 2020-10-15 16 00 34" src="https://user-images.githubusercontent.com/61875210/96088513-80c8ec00-0f00-11eb-9ebf-46be82788292.png">
+<img width="1664" alt="top" src="https://user-images.githubusercontent.com/61875210/106830273-0f8c8f00-66d1-11eb-8fe2-3e5607b4cb52.png">
